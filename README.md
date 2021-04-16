@@ -4,7 +4,8 @@
 闲鱼爬虫源码淘宝闲鱼商品爬虫源码，可以爬取闲鱼商品的商品内容，图片，价格，出售人信息等等
 
 效果图：
-
+![Image text](https://raw.githubusercontent.com/wxs2/idlefish-crawler/main/1.jpg)
+![Image text](https://raw.githubusercontent.com/wxs2/idlefish-crawler/main/2.jpg)
 源码介绍地址：http://changu.net/xianyu.html
 
 核心hook代码
