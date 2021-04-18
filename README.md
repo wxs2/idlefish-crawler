@@ -36,12 +36,11 @@
 ]
 ```
 
-
-
+数据简单应用效果：做成自己的网页，按自己的条件重新搜索数据。标注描述中的关键字，按价格最低排序，很容易就能找到自己想要的商品。直接从网页上点击跳转到闲鱼App打开详情页。
+### 效果展示
+![Image text](https://raw.githubusercontent.com/wxs2/idlefish-crawler/main/gif.gif)
 ![Image text](https://raw.githubusercontent.com/wxs2/idlefish-crawler/main/1.jpg)
 ![Image text](https://raw.githubusercontent.com/wxs2/idlefish-crawler/main/2.jpg)
 
-数据简单应用效果：做成自己的网页，按自己的条件重新搜索数据。标注描述中的关键字，按价格最低排序，很容易就能找到自己想要的商品。直接从网页上点击跳转到闲鱼App打开详情页。
-![Image text](https://raw.githubusercontent.com/wxs2/idlefish-crawler/main/gif.gif)
 
 
