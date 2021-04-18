@@ -7,6 +7,7 @@
 ![Image text](https://raw.githubusercontent.com/wxs2/idlefish-crawler/main/1.jpg)
 ![Image text](https://raw.githubusercontent.com/wxs2/idlefish-crawler/main/2.jpg)
 源码介绍地址：http://changu.net/xianyu.html
+抓取数据展示：http://stock.changu.net/xianyu/vue
 
 核心hook代码
 
